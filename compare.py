@@ -3,6 +3,8 @@ Compare two Excel sheets
 Inspired by https://pbpython.com/excel-diff-pandas-update.html
 For the documentation, download this file and type:
 python compare.py --help
+
+Comparar
 """
 
 import argparse
